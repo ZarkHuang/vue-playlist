@@ -3,11 +3,20 @@
 
 ![截圖 2023-07-31 下午11 42 13](https://github.com/ZarkHuang/vue-playlist/assets/108380904/ca7039d3-a42d-4f09-bb5c-04e4f02938b5)
 
+<hr/>
+
+# Demo
+https://zarkhuang.github.io/vue-playlist/
 
 <hr/>
 
+# 使用技術
 <li>Vue3</li>
 <li>JavaScript(ES6)</li>
 <li>RWD</li>
 <li>ESlint(airbnb)</li>
 <li>prettier</li>
+
+<hr/>
+
+![Uploading 截圖 2023-07-31 下午11.48.50.png…]()
