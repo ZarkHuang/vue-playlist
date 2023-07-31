@@ -19,4 +19,4 @@ https://zarkhuang.github.io/vue-playlist/
 
 <hr/>
 
-![Uploading 截圖 2023-07-31 下午11.48.50.png…]()
+![截圖 2023-07-31 下午11 51 11](https://github.com/ZarkHuang/vue-playlist/assets/108380904/c0516055-99aa-4ea7-bf9b-a0655c780da3)
