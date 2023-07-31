@@ -18,5 +18,5 @@ https://zarkhuang.github.io/vue-playlist/
 <li>prettier</li>
 
 <hr/>
+![截圖 2023-07-31 下午11 51 56](https://github.com/ZarkHuang/vue-playlist/assets/108380904/7ed18d9a-df73-4543-938d-a9da78a7847f)
 
-![截圖 2023-07-31 下午11 51 11](https://github.com/ZarkHuang/vue-playlist/assets/108380904/c0516055-99aa-4ea7-bf9b-a0655c780da3)
