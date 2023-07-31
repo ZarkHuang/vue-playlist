@@ -6,8 +6,8 @@
 
 <hr/>
 
-Vue3
-JavaScript(ES6)
-RWD
-ESlint(airbnb)
-prettier
+<li>Vue3</li>
+<li>JavaScript(ES6)</li>
+<li>RWD</li>
+<li>ESlint(airbnb)</li>
+<li>prettier</li>
